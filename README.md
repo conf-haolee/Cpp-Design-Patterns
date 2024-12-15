@@ -91,7 +91,5 @@
 + Visitor
 + Interpreter
 
-感谢赞助！如果此项目对您有帮助，请作者喝一杯奶茶~~ （开心一整天😊😊）
-![image](https://github.com/user-attachments/assets/00b1ffbd-b63a-40f5-8f68-a870d3a9aeeb)
-![image](https://github.com/user-attachments/assets/6f8c0492-ace7-4679-b5ea-ed9029efb192)
+> forked https://github.com/liu-jianhao/Cpp-Design-Patterns
 
